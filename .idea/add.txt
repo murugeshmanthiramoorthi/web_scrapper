@@ -1,0 +1,8 @@
+Passenger class
+Mode of booking  direct website/third party
+Time of travel
+Season
+number of passengers
+Is the accompany underage
+Is the accompanied of opposite gender
+
